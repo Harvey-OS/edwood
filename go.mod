@@ -19,3 +19,5 @@ require (
 	golang.org/x/mobile v0.0.0-20190127143845-a42111704963 // indirect
 	golang.org/x/sys v0.0.0-20190219092855-153ac476189d // indirect
 )
+
+replace 9fans.net/go => github.com/fhs/9fans-go v0.0.0-fhs.20210901
